@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Software Pirate's Blog]]></title>
-  <link href="http://bbucko.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: misc | Software Pirate's Blog]]></title>
+  <link href="http://bbucko.github.com/blog/categories/misc/atom.xml" rel="self"/>
   <link href="http://bbucko.github.com/"/>
   <updated>2012-03-21T00:09:50+01:00</updated>
   <id>http://bbucko.github.com/</id>

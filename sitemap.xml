@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://bbucko.github.com/blog/2012/03/21/yaarrr/</loc>
+        <lastmod>2012-03-21T00:07:27+01:00</lastmod>
+    </url>
+    <url>
         <loc>http://bbucko.github.com/blog/archives/</loc>
-        <lastmod>2012-03-19T22:16:24+01:00</lastmod>
+        <lastmod>2012-03-21T00:07:27+01:00</lastmod>
     </url>
     <url>
         <loc>http://bbucko.github.com/</loc>
-        <lastmod>2012-03-19T22:16:24+01:00</lastmod>
+        <lastmod>2012-03-21T00:07:27+01:00</lastmod>
     </url>
 </urlset>
